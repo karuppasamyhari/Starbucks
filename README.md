@@ -28,7 +28,13 @@ The Starbucks Webpage Project is my personal project to demonstrate HTML, CSS, a
 
 ## Preview
 
-![Screenshot (26)](https://github.com/karuppasamyhari/Starbucks/assets/86235041/b225aae1-e9da-4e05-8b34-3cb9fa3ab78e.png)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="image-of-landing-page" src="![Screenshot (26)](https://github.com/karuppasamyhari/Starbucks/assets/86235041/1e179b1d-6ae7-4b18-8db4-ab28f6115781)
+E">
+</picture>
+
 
 ## Getting Started
 

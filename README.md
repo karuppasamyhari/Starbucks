@@ -47,12 +47,12 @@ Follow these instructions to set up the Starbucks webpage project on your local 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/starbucks-webpage.git
+   git clone https://github.com/karuppasamyhari/Starbucks.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd starbucks-webpage
+   cd Starbucks
    ```
 
 3. Open the `index.html` file in your web browser.

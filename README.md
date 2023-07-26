@@ -1,4 +1,3 @@
-```markdown
 # Starbucks Webpage Project
 
 This is a Starbucks-themed webpage project that showcases my web development skills. It is a static webpage designed to mimic the Starbucks website with some basic interactive features.
@@ -19,7 +18,7 @@ This is a Starbucks-themed webpage project that showcases my web development ski
 
 ## Description
 
-The Starbucks Webpage Project is my personal project to demonstrate HTML, CSS, and JavaScript skills. It includes a landing page with various sections like the Home, menu, What's New, and a contact form. The webpage is fully responsive and can be viewed on different devices.
+The Starbucks Webpage Project is my personal project to demonstrate HTML, CSS, and JavaScript skills. It includes a landing page with various sections like the Home, Menu, What's New, and a Contact. The webpage can be viewed on different devices.
 
 ## Features
 
@@ -28,13 +27,7 @@ The Starbucks Webpage Project is my personal project to demonstrate HTML, CSS, a
 
 ## Preview
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="image-of-landing-page" src="![Screenshot (26)](https://github.com/karuppasamyhari/Starbucks/assets/86235041/1e179b1d-6ae7-4b18-8db4-ab28f6115781)
-E">
-</picture>
-
+![Screenshot (26)](https://github.com/karuppasamyhari/Starbucks/assets/86235041/1e179b1d-6ae7-4b18-8db4-ab28f6115781)
 
 ## Getting Started
 
@@ -67,7 +60,6 @@ Explain how users can interact with the webpage and explore its features.
 - HTML5
 - CSS3
 - JavaScript
-- Google Maps API (for store locator)
 - Font Awesome (for icons)
 
 ## Contributing
@@ -82,10 +74,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or want to get in touch, you can reach me through the following:
 
-- Email: yourname@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
-- LinkedIn: [yourlinkedinprofile](https://www.linkedin.com/in/yourlinkedinprofile/)
-
-```
-
-Make sure to replace the placeholder information with your actual project details and contact information. Additionally, include a preview section with a link or screenshot of your Starbucks webpage to give readers an idea of what it looks like.
+- Email: karuppasamyhariharan@gmail.com
+- GitHub: [karuppasamyhari](https://github.com/karuppasamyhariharan)
+- LinkedIn: [Karuppasamyhariharan A](https://www.linkedin.com/in/kh10)

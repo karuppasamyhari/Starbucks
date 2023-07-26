@@ -2,6 +2,8 @@
 
 This is a Starbucks-themed webpage project that showcases my web development skills. It is a static webpage designed to mimic the Starbucks website with some basic interactive features.
 
+**[Touch here you can see the landing page](https://karuppasamyhari.github.io/Starbucks)**
+
 ## Table of Contents
 
 - [Description](#description)

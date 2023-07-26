@@ -28,7 +28,8 @@ The Starbucks Webpage Project is my personal project to demonstrate HTML, CSS, a
 
 ## Preview
 
-Include a link or screenshot of your webpage here, so people can see what it looks like.
+![Screenshot (26)](https://github.com/karuppasamyhari/Starbucks/assets/86235041/fe1da2cc-d965-47b4-a756-2c0b6360cbac)
+
 
 ## Getting Started
 

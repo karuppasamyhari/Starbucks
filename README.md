@@ -81,5 +81,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or want to get in touch, you can reach me through the following:
 
 - Email: karuppasamyhariharan@gmail.com
-- GitHub: [karuppasamyhari](https://github.com/karuppasamyhariharan)
+- GitHub: [karuppasamyhari](https://github.com/karuppasamyhari)
 - LinkedIn: [Karuppasamyhariharan A](https://www.linkedin.com/in/kh10)
